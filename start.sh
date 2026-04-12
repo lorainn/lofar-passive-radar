@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+for name in STARLINK-33977 STARLINK-36732 STARLINK-36807 STARLINK-36739 STARLINK-36798 STARLINK-36297
+do
+ ./irbene_2026-03-07_starlink.py $name 
+done
