@@ -4,7 +4,7 @@ Developed code for the use of LOFAR as a passive radar for space object detectio
 This repository contains all the code developed during the bachelor’s thesis “Development of a System for Satellite Detection and Parameter Determination Using LOFAR as a Passive Radar”.
 
 **Repository Contents**
-- help-codes/: Codes for comprehensive understanding of processing pipeline and data recording of beamforming observations on LOFAR stations. 
+- help-codes/: Third-party codes for comprehensive understanding of processing pipeline and data recording of beamforming observations on LOFAR stations. 
 - ISSTrack.ini: Authentication for SpaceTrack historic TLE files. 
 - spacetrack.py: Python code for TLE queries.
 - map_iss.ipynb: Target's flight path visualization over European map.
