@@ -6,7 +6,7 @@ This repository contains all the code developed during the bachelorâ€™s thesis â
 **Repository Contents**
 - help-codes/: Codes for comprehensive understanding of processing pipeline and data recording of beamforming observations on LOFAR stations. 
 - ISSTrack.ini: Authentication for SpaceTrack historic TLE files. 
-- spacetrack.py: Python code for TLE queries (not finished and not in use at the moment).
+- spacetrack.py: Python code for TLE queries.
 - map_iss.ipynb: Target's flight path visualization over European map.
 - read_udp_pack.ipynb: Main data processing pipeline code for waterfall plot, UDP packet parsing, etc. 
 - caf_pipeline.ipynb: Radar processing pipeline taking the beamlet data stream with the Doppler-Range map and temporal plots as outputs.
